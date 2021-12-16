@@ -21,6 +21,8 @@ namespace Ex_Exceções
             {
                 Console.WriteLine("Format error! " + e.Message);
             }
+
+            Console.WriteLine("");
         }
     }
 }
